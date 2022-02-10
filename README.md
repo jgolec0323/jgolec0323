@@ -1,4 +1,4 @@
-👋 Hi, I’m @jgolec0323
+👋 Hi, I’m Johnny
 
 👀 I’m interested in Data Science, Start-ups, Investing, Health Optimization, Crypto
 
