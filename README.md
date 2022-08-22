@@ -1,6 +1,6 @@
 👋 Hi, I’m Johnny
 
-👀 I’m interested in Data Science, Start-ups, Investing, Health Optimization, Trading, Crypto
+👀 I’m interested in Data Science, Trading, Crypto, Start-ups, Investing, and Health Optimization.
 
 📝 Check out my blog on [Medium](johnpgolec.medium.com)
 
