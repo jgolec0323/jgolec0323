@@ -1,6 +1,6 @@
 👋 Hi, I’m Johnny
 
-👀 I’m interested in Data Science, Quant Trading, VC, and Health Optimization.
+👀 I’m interested in Crypto, Data Science, Quant Trading, VC, and Health Optimization.
 
 <!---
 📝 Check out my blog on [Medium](johnpgolec.medium.com)
